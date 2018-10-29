@@ -1,7 +1,7 @@
 # Closures Lab
 
 ## Objectives
-+ Use closures to customize functions
++ Use losures to customize functions
 + Use closures as a mechanism of encapsulations
 
 ## Instructions
